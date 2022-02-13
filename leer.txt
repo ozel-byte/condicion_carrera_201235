@@ -1,5 +1,10 @@
 Las lineas comentadas en el archivo condicion_carrera estan asi por que hay dos versiones de este programa
 1) la primera version es que solo muestra el nombre de las canciones como tipo rocola una despues de otra y emprime el total de musicas
 
-2) la segunda version hace lo mismo que la primera solo que en esta puede reproducir las musicas con el paquete pygame
-para lograrlo tiene que crear una carpeta llamada "music" y dentro colocar las musicas en formato .mp3 y descomentar las lineas de codigo
+2) la segunda version hace lo mismo que la primera solo que en esta puede reproducir las musicas con el paquete pygame (si no tiene instalado pygame ejecute el sigueinte comando)
+"pip install pygame"
+
+intrucciones: version 2
+Para lograrlo correr tiene que crear una carpeta llamada "music" y dentro colocar las musicas en formato .mp3 y descomentar las lineas de codigo
+
+por defecto el programa esta en la version 1 que solo hace impresion sin la musica.
