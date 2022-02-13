@@ -1,3 +1,3 @@
-en la carpeta music puede agregar archivos de musica .mp3 solo ese tipo de formato y instalar pip install pygame 
+crear la carpeta music y dentro colocar los archivos de musica .mp3 solo ese tipo de formato y instalar pip install pygame 
 para que el programa reproduzca la musica
  No se agrego musicas mp3 ya que pesan mucho y en git tardaria mucho en subirse xd
