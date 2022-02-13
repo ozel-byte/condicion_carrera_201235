@@ -1,3 +1,5 @@
-crear la carpeta music y dentro colocar los archivos de musica .mp3 solo ese tipo de formato y instalar pip install pygame 
-para que el programa reproduzca la musica
- No se agrego musicas mp3 ya que pesan mucho y en git tardaria mucho en subirse xd
+Las lineas comentadas en el archivo condicion_carrera estan asi por que hay dos versiones de este programa
+1) la primera version es que solo muestra el nombre de las canciones como tipo rocola una despues de otra y emprime el total de musicas
+
+2) la segunda version hace lo mismo que la primera solo que en esta puede reproducir las musicas con el paquete pygame
+para lograrlo tiene que crear una carpeta llamada "music" y dentro colocar las musicas en formato .mp3 y descomentar las lineas de codigo
